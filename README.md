@@ -4,3 +4,5 @@
 If you'd like to contribute to this website, even if you're only writing posts, please read HACKING.md for instructions.
 
 By Dunman High School Infocomm Club
+
+epistein did not kill himself
